@@ -1,0 +1,53 @@
+{
+    "name": "testPressHomeInHamburgerMenu",
+    "start": 1674672178801,
+    "stop": 1674672181760,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "35a33f7e-3170-48cd-9efe-0424e89d3b9a",
+    "historyId": "2ce664fe42c572e884b34e4b63ad2f92",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.SimpleEspressoTest.testPressHomeInHamburgerMenu",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.SimpleEspressoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPressHomeInHamburgerMenu"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.SimpleEspressoTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(163991)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
